@@ -1,0 +1,28 @@
+{
+  "name": "zentra-backend",
+  "version": "1.0.0",
+  "description": "a backend monolith for the zentra app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zenn-LLC/zentra-backend.git"
+  },
+  "author": "Azi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zenn-LLC/zentra-backend/issues"
+  },
+  "homepage": "https://github.com/Zenn-LLC/zentra-backend#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "paystack": "^2.0.1",
+    "redis": "^5.8.2",
+    "ws": "^8.18.3"
+  }
+}
