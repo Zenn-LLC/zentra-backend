@@ -1,2 +1,2 @@
 # zentra-backend
-the codebase written for the zentra app. a single monolith that supports payments, multiplayer, and social communication.
+the former codebase written for the zentra app, 2023. a single monolith that supports payments, multiplayer, and social communication.
